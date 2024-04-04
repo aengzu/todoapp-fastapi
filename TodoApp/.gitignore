@@ -277,7 +277,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+fastapienv/
 # Spyder project settings
 .spyderproject
 .spyproject
