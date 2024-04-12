@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (udemy-fastapi-tutorial)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (TodoApp)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 virtualenv at ~/udemy-fastapi-tutorial/TodoApp/venv" project-jdk-type="Python SDK" />
 </project>
